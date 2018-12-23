@@ -1,2 +1,2 @@
-# AtlasRPG
+# Atlas MORPG
 Browser MORPG
